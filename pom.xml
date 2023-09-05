@@ -81,9 +81,6 @@
 							<includes>
 								<include>**/*ITest.java</include> <!-- Matches classes ending with "ITest" -->
 							</includes>
-							<excludes>
-								<exclude>**/*Test.java</exclude> <!-- Exclude classes ending with "ITest" -->
-							</excludes>
 						</configuration>
 					</execution>
 				</executions>
